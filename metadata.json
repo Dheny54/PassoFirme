@@ -1,0 +1,8 @@
+{
+  "name": "Remix PassoFirme — Academia de Movimento PC",
+  "description": "Jogo progressivo e leve para dominar teclado (WASD, Shift, Espaço) e mira com mouse em jogos 2D e 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
